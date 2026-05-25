@@ -94,4 +94,4 @@ The demo scene contains:
 
 ## Screenshots
 
-Add screenshots or GIFs here.
+![Textured Rendering](screenshot.png)

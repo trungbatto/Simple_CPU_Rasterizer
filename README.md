@@ -1,6 +1,6 @@
 # CPU Software Rasterizer
 
-A CPU-based 3D software rasterizer written in C using SDL2.
+A CPU-based 3D software rasterizer made from scratch, written in C using SDL2.
 This project implements a complete 3D graphics pipeline entirely on the CPU without relying on GPU rasterization APIs such as OpenGL or DirectX.
 
 The renderer supports mesh loading, clipping, perspective projection, textured triangle rasterization, z-buffering, back-face culling, camera movement, and multiple rendering modes.

@@ -20,8 +20,7 @@ The renderer supports mesh loading, clipping, perspective projection, textured t
 * Multiple render modes
 * Camera movement and rotation
 
-## Technologies
-
+## Languages & libraries
 * C
 * SDL2
 * uPNG

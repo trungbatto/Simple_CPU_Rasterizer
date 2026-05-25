@@ -1,0 +1,566 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\mesh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\mesh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\matrix.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\display.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\display.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\camera.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\camera.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\clipping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\clipping.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\texture.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\texture.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\swap.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\mesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\light.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\upng.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\upng.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\swap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\swap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\triangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\triangle.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\texture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\vector.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\vector.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\light.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\light.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\bunny.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\bunny.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\tyra.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\tyra.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\23 Textured OBJ Files\\attachments\\3drenderer-221113-020913\\3drenderer\\src\\mesh.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\19 Light and Shading\\attachments\\3drenderer-200831-180712\\3drenderer\\src\\light.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\matrix.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\f22.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D433AC7-594F-45E3-8747-283E16867B07}|3D Graphics Programming\\3D Graphics Programming.vcxproj|solutionrelative:3D Graphics Programming\\f22.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\yvals_core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\source\\repos\\3D Graphics Programming\\3D Graphics Programming\\cube.obj||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\main.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\main.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\main.c",
+              "RelativeToolTip": "3D Graphics Programming\\main.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.106Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mesh.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\mesh.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\mesh.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\mesh.c",
+              "RelativeToolTip": "3D Graphics Programming\\mesh.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "upng.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\upng.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\upng.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\upng.h",
+              "RelativeToolTip": "3D Graphics Programming\\upng.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "light.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\light.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\light.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\light.h",
+              "RelativeToolTip": "3D Graphics Programming\\light.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "display.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\display.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\display.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\display.h",
+              "RelativeToolTip": "3D Graphics Programming\\display.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "mesh.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\mesh.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\mesh.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\mesh.h",
+              "RelativeToolTip": "3D Graphics Programming\\mesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "swap.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\swap.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\swap.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\swap.c",
+              "RelativeToolTip": "3D Graphics Programming\\swap.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "texture.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\texture.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\texture.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\texture.c",
+              "RelativeToolTip": "3D Graphics Programming\\texture.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "triangle.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\triangle.c",
+              "RelativeDocumentMoniker": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\triangle.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\triangle.c",
+              "RelativeToolTip": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\triangle.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clipping.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\clipping.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\clipping.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\clipping.c",
+              "RelativeToolTip": "3D Graphics Programming\\clipping.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "array.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\array.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\array.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\array.c",
+              "RelativeToolTip": "3D Graphics Programming\\array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "array.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\array.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\array.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\array.h",
+              "RelativeToolTip": "3D Graphics Programming\\array.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "camera.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\camera.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\camera.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\camera.c",
+              "RelativeToolTip": "3D Graphics Programming\\camera.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "matrix.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\matrix.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\matrix.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\matrix.h",
+              "RelativeToolTip": "3D Graphics Programming\\matrix.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "display.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\display.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\display.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\display.c",
+              "RelativeToolTip": "3D Graphics Programming\\display.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "vector.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\vector.h",
+              "RelativeDocumentMoniker": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\vector.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\vector.h",
+              "RelativeToolTip": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\20 Texture Mapping\\attachments\\3drenderer-221113-015749\\3drenderer\\src\\vector.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "swap.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\swap.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\swap.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\swap.h",
+              "RelativeToolTip": "3D Graphics Programming\\swap.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "camera.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\camera.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\camera.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\camera.h",
+              "RelativeToolTip": "3D Graphics Programming\\camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "matrix.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\matrix.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\matrix.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\matrix.c",
+              "RelativeToolTip": "3D Graphics Programming\\matrix.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-25T11:31:15.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "display.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\display.h",
+              "RelativeDocumentMoniker": "display.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\display.h",
+              "RelativeToolTip": "display.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-25T05:26:17.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "yvals_core.h",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\yvals_core.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\yvals_core.h",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\yvals_core.h",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\VC\\Tools\\MSVC\\14.44.35207\\include\\yvals_core.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-25T05:28:10.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "triangle.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\triangle.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\triangle.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\triangle.h",
+              "RelativeToolTip": "3D Graphics Programming\\triangle.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "vector.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\vector.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\vector.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\vector.c",
+              "RelativeToolTip": "3D Graphics Programming\\vector.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "mesh.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\23 Textured OBJ Files\\attachments\\3drenderer-221113-020913\\3drenderer\\src\\mesh.c",
+              "RelativeDocumentMoniker": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\23 Textured OBJ Files\\attachments\\3drenderer-221113-020913\\3drenderer\\src\\mesh.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\23 Textured OBJ Files\\attachments\\3drenderer-221113-020913\\3drenderer\\src\\mesh.c",
+              "RelativeToolTip": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\23 Textured OBJ Files\\attachments\\3drenderer-221113-020913\\3drenderer\\src\\mesh.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwEAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "texture.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\texture.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\texture.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\texture.h",
+              "RelativeToolTip": "3D Graphics Programming\\texture.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "light.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\19 Light and Shading\\attachments\\3drenderer-200831-180712\\3drenderer\\src\\light.c",
+              "RelativeDocumentMoniker": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\19 Light and Shading\\attachments\\3drenderer-200831-180712\\3drenderer\\src\\light.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\19 Light and Shading\\attachments\\3drenderer-200831-180712\\3drenderer\\src\\light.c",
+              "RelativeToolTip": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\19 Light and Shading\\attachments\\3drenderer-200831-180712\\3drenderer\\src\\light.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "light.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\light.c",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\light.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\light.c",
+              "RelativeToolTip": "3D Graphics Programming\\light.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\main.c",
+              "RelativeDocumentMoniker": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\main.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\main.c",
+              "RelativeToolTip": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\main.c",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "matrix.c",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\matrix.c",
+              "RelativeDocumentMoniker": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\matrix.c",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\matrix.c",
+              "RelativeToolTip": "..\\hoc hanh\\Pikuma - 3D Computer Graphics Programming 2024-4\\18 Projection Matrix\\attachments\\3drenderer-200831-164731\\3drenderer\\src\\matrix.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAHgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-03-04T02:44:39.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "cube.obj",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\3D Graphics Programming\\3D Graphics Programming\\cube.obj",
+              "RelativeDocumentMoniker": "..\\..\\source\\repos\\3D Graphics Programming\\3D Graphics Programming\\cube.obj",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\3D Graphics Programming\\3D Graphics Programming\\cube.obj",
+              "RelativeToolTip": "..\\..\\source\\repos\\3D Graphics Programming\\3D Graphics Programming\\cube.obj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEWSURBVDhPpZNBjoQgEEW/ZFaGRR/FOUITliZeYY7AKdgOh2FJ4hW8iS6w3FmzEQaJ9nQyb6VF/U/5QaAixtgR0UxEc4yxq9dPMPPpPYmttWyt5bdMEqVYKcVKqbdMGhxiIcTonHuEEE4NWmsYY5Z9359SyimZSSknABCvxDWpVwgxJqOGiOY78bH7qeacA4A81cdptSKEgCvjg4cxZhT7vj\u002BNMYvWOq9oreG9h/ceAOC9xzAMhfYXIaWcSpMitM\u002BycV3X/FwGm4tXF4iIWCnFRMRExMX94G3bvgBAJIM0STqu7FyQAnXOgZm/Y4xdUzeVEBH3fV\u002BXgeIz8gR3pDBvQ6wLJW3bNkeYy58hvuJfP1ni6pQA4AcGJQ1OVqoa1QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-04T02:44:39.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "tyra.obj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\tyra.obj",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\tyra.obj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\tyra.obj",
+              "RelativeToolTip": "3D Graphics Programming\\tyra.obj",
+              "ViewState": "AgIAADLsBQAAAAAAAAAAAHsaBgAqAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEWSURBVDhPpZNBjoQgEEW/ZFaGRR/FOUITliZeYY7AKdgOh2FJ4hW8iS6w3FmzEQaJ9nQyb6VF/U/5QaAixtgR0UxEc4yxq9dPMPPpPYmttWyt5bdMEqVYKcVKqbdMGhxiIcTonHuEEE4NWmsYY5Z9359SyimZSSknABCvxDWpVwgxJqOGiOY78bH7qeacA4A81cdptSKEgCvjg4cxZhT7vj\u002BNMYvWOq9oreG9h/ceAOC9xzAMhfYXIaWcSpMitM\u002BycV3X/FwGm4tXF4iIWCnFRMRExMX94G3bvgBAJIM0STqu7FyQAnXOgZm/Y4xdUzeVEBH3fV\u002BXgeIz8gR3pDBvQ6wLJW3bNkeYy58hvuJfP1ni6pQA4AcGJQ1OVqoa1QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-04T02:44:39.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "f22.obj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\f22.obj",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\f22.obj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\f22.obj",
+              "RelativeToolTip": "3D Graphics Programming\\f22.obj",
+              "ViewState": "AgIAAPQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEWSURBVDhPpZNBjoQgEEW/ZFaGRR/FOUITliZeYY7AKdgOh2FJ4hW8iS6w3FmzEQaJ9nQyb6VF/U/5QaAixtgR0UxEc4yxq9dPMPPpPYmttWyt5bdMEqVYKcVKqbdMGhxiIcTonHuEEE4NWmsYY5Z9359SyimZSSknABCvxDWpVwgxJqOGiOY78bH7qeacA4A81cdptSKEgCvjg4cxZhT7vj\u002BNMYvWOq9oreG9h/ceAOC9xzAMhfYXIaWcSpMitM\u002BycV3X/FwGm4tXF4iIWCnFRMRExMX94G3bvgBAJIM0STqu7FyQAnXOgZm/Y4xdUzeVEBH3fV\u002BXgeIz8gR3pDBvQ6wLJW3bNkeYy58hvuJfP1ni6pQA4AcGJQ1OVqoa1QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-04T02:44:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bunny.obj",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\bunny.obj",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\bunny.obj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\bunny.obj",
+              "RelativeToolTip": "3D Graphics Programming\\bunny.obj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOEHAAAwAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEWSURBVDhPpZNBjoQgEEW/ZFaGRR/FOUITliZeYY7AKdgOh2FJ4hW8iS6w3FmzEQaJ9nQyb6VF/U/5QaAixtgR0UxEc4yxq9dPMPPpPYmttWyt5bdMEqVYKcVKqbdMGhxiIcTonHuEEE4NWmsYY5Z9359SyimZSSknABCvxDWpVwgxJqOGiOY78bH7qeacA4A81cdptSKEgCvjg4cxZhT7vj\u002BNMYvWOq9oreG9h/ceAOC9xzAMhfYXIaWcSpMitM\u002BycV3X/FwGm4tXF4iIWCnFRMRExMX94G3bvgBAJIM0STqu7FyQAnXOgZm/Y4xdUzeVEBH3fV\u002BXgeIz8gR3pDBvQ6wLJW3bNkeYy58hvuJfP1ni6pQA4AcGJQ1OVqoa1QAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-03-04T02:44:39.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "vector.h",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\vector.h",
+              "RelativeDocumentMoniker": "3D Graphics Programming\\vector.h",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\3D Graphics Programming\\3D Graphics Programming\\vector.h",
+              "RelativeToolTip": "3D Graphics Programming\\vector.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-03-04T02:44:39.271Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
